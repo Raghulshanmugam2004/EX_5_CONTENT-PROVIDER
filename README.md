@@ -145,7 +145,11 @@ public class MainActivity extends AppCompatActivity {
         </activity>
     </application>
 
-</manifest>![Screenshot 2024-09-17 194637](https://github.com/user-attachments/assets/3e17ead9-eb04-43f3-b6e5-10ddd1dae911)
+</manifest>
+
+
+
+
 
 ```
 
