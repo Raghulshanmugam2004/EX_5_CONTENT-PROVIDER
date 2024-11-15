@@ -95,6 +95,9 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("Total Count of Contacts: "+count);}
 }
+
+
+
 ```
 ## Activitymain.XML:
 ```
@@ -146,6 +149,8 @@ public class MainActivity extends AppCompatActivity {
     </application>
 
 </manifest>
+
+
 
 
 
